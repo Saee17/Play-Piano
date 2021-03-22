@@ -1,0 +1,112 @@
+body{
+    text-align: center;
+    background-image:linear-gradient(to right, #b3b3ff, #ecb3ff, #e699ff);
+    font-family: 'Poppins',sans-serif;
+    font-size: medium;
+}
+
+h1{
+    font-family: 'Poppins',sans-serif;
+    text-shadow: 3px 3px #ffffff;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    
+}
+
+.instructions{
+    background: -webkit-linear-gradient( #F00B51, #2b1b1c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.para{
+    background: -webkit-linear-gradient(#F00B51, #2b1b1c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.white{
+    font-family:'Poppins',sans-serif;
+    position: relative;
+    width: 60px;
+    height: 250px;
+    padding: 10px;
+    border:rgb(112, 112, 112);
+    box-shadow: 0 3px 4px 0 #777777;
+    border-radius: 6px;
+}
+
+.black{
+    font-family:'Poppins',sans-serif;
+    position: absolute;
+    width: 50px;
+    height: 150px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border:rgb(112, 112, 112);
+    box-shadow: 0 3px 4px 0 #777777;
+    border-radius: 6px;
+}
+
+.g{
+    position: absolute;
+    left: 360px;
+}
+
+.h{
+    position: absolute;
+    left: 425px;
+}
+
+.j{
+    position: absolute;
+    left:550px;
+}
+
+.k{
+    position: absolute;
+    left: 615px;
+}
+
+.l{
+    position: absolute;
+    left: 680px;
+}
+
+.z{
+    position: absolute;
+    left: 810px;
+}
+
+.x{
+    position: absolute;
+    left: 875px;
+}
+
+.c{
+    position: absolute;
+    left: 1000px;
+}
+
+.v{
+    position: absolute;
+    left: 1065px;
+}
+
+.b{
+    position: absolute;
+    left: 1130px;
+}
+
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+
